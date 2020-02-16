@@ -1,4 +1,4 @@
-Web Scrapper for scraping sites for job postings using Selenium and BeautifulSoup.
+Web Scrapper for scraping sites for job postings using Selenium and BeautifulSoup(For educational purpose only).
 Extracts data like:
   1. Title of Job Posting
   2. Location of Job Posting
